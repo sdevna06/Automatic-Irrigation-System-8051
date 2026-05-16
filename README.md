@@ -33,31 +33,31 @@ The 8051 microcontroller processes the sensor data and controls the relay accord
 
 ## Circuit Diagram
 
-![Circuit Diagram](Screenshot%202026-05-16%20114224.png)
+![Circuit Diagram](Schematic%20setup.png)
 
 ---
 
 ## Hardware Setup
 
-![Hardware Setup](Automatic%20irrigation%20system%20(2).jpeg)
+![Hardware Setup](Hardware%20setup.jpeg)
 
 ---
 
 ## Block Diagram
 
-![Block Diagram](Screenshot%202026-05-16%20114243.png)
+![Block Diagram](Block%20diagram.png)
 
 ---
 
 ## Demo Video
 
-[Video](https://youtu.be/a_8ykrJIi_I)
+[Click](https://youtu.be/a_8ykrJIi_I)
 
 ---
 
 ## Project Report
 
-[Click here to view report](Automatic%20irrigation%20system.pdf)
+[view](Report.pdf)
 
 ---
 
@@ -67,3 +67,5 @@ The 8051 microcontroller processes the sensor data and controls the relay accord
 - Water conservation system
 - Low-cost embedded solution
 - Efficient farming automation
+
+---
