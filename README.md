@@ -135,7 +135,3 @@ https://youtu.be/a_8ykrJIi_I
 - Efficient farming automation
 
 ---
-
-## Author
-
-Your Name
